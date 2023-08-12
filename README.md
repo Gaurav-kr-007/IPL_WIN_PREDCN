@@ -5,4 +5,6 @@ The model uses Logistic Regression as it gives most suitable result.
 
 The code also uses Pipeline,Column Transformer .
 
+Used python streamlit to make user interface 
+
 Pull Requests are welcomed.
